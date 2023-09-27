@@ -1,4 +1,4 @@
-This course contain Pytorch Implementation
+### This course contain Pytorch Implementation
   - Basic Math topics
   - Image Search
   - Data Augmentation technique like RANDAUG
