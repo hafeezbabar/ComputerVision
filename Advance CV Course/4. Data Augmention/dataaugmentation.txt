@@ -1,2 +1,8 @@
 ### Data Augmentation
 Why Data Augmentation and History
+ - Overcome over-fitting
+ - Make your model robust and better generalization to unseen data
+ - Improved Localization
+ - Create a regularization effect
+ - Generate additional data with no effect - have transformations which are more suitable for target use cases
+ - 
